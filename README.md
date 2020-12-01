@@ -1,4 +1,4 @@
-# Probabilistic_Classifications_ML
+# Machile_Learning_Heart_Disease_Detection
 Machine Learning classifications methods || Academic
 
 The aim of this project is to study the classification methods to which statistics naturally give access. It will therefore be a question of studying probabilistic classification tools.
